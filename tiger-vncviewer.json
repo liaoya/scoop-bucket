@@ -1,0 +1,23 @@
+{
+    "homepage": "http://tigervnc.org",
+    "version": "1.8.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer64-1.8.0.exe#/vncviewer.exe",
+            "hash": "bd1d62b450d7ebf261212e80746b4cb92037b21043c28d3c5bc7a3efa6163c61"
+        },
+        "32bit": {
+            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer-1.8.0.exe#/vncviewer.exe",
+            "hash": "c233312aac48d0e72a2f3696f42bdc5e3214e34f6406d889976ca8934a4683ad"
+        }
+    },
+    "bin": [
+        "vncviewer.exe"
+    ],
+    "shortcuts": [
+        [
+            "vncviewer.exe",
+            "Tiger VNC Viewer"
+        ]
+    ]    
+}
