@@ -16,8 +16,8 @@
             "hash": "8bafd3d52f5a51528a8671c1cae5591b36086d6ea5b1e76e17e390965cf6768f",
             "extract_dir": "msys32",
             "shortcuts": [
-                ["msys2.exe", "MSYS2 Simulator"],
-                ["mingw32.exe", "Mingw32 Simulator"]
+                ["msys2.exe", "MSYS2"],
+                ["mingw32.exe", "Mingw32"]
             ]
         }
     },
