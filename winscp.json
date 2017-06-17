@@ -6,6 +6,7 @@
     "bin": [
         "WinSCP.exe"
     ],
+    "depends": "putty",
     "shortcuts": [
         [
             "WinSCP.exe",
