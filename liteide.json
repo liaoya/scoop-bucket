@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/visualfc/liteide",
+    "version": "x32",
+    "url": "https://sourceforge.net/projects/liteide/files/X32/liteidex32-2.windows-qt5.zip/download",
+    "hash": "0fa66c414a7e7af0cdaf8273c5fc6c11fca34e2849aaf573b6d8e83a252c8dac",
+    "extract_dir": "liteide",
+    "shortcuts": [
+        [
+            "bin\\liteide.exe",
+            "LiteIDE X"
+        ]
+    ]
+}
