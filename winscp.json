@@ -3,9 +3,6 @@
     "version": "5.9.5",
     "url": "https://sourceforge.net/projects/winscp/files/WinSCP/5.9.5/WinSCP-5.9.5-Portable.zip",
     "hash": "2cdf922660804fcf1d15f6cac7e1634e94a6597f58b1cdc388414302543636b7",
-    "bin": [
-        "WinSCP.exe"
-    ],
     "depends": "putty",
     "shortcuts": [
         [
