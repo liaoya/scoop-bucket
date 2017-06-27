@@ -1,5 +1,8 @@
 {
     "homepage": "https://github.com/PowerShell/Win32-OpenSSH",
+    "checkver": {
+        "github": "https://github.com/PowerShell/Win32-OpenSSH"
+    },
     "version": "v0.0.16.0",
     "architecture": {
         "64bit": {

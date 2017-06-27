@@ -1,6 +1,9 @@
 {
     "homepage": "https://github.com/BurntSushi/ripgrep",
     "version": "0.5.2",
+    "checkver": {
+        "github": "https://github.com/BurntSushi/ripgrep"
+    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/BurntSushi/ripgrep/releases/download/0.5.2/ripgrep-0.5.2-x86_64-pc-windows-msvc.zip",

@@ -1,5 +1,6 @@
 {
     "homoepage": "https://doublecmd.sourceforge.io",
+    "checkver": "Double Commander ([\\d.]+) beta released",
     "version": "0.7.8",
     "architecture": {
         "64bit": {

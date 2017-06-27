@@ -1,6 +1,9 @@
 {
     "homepage": "http://tigervnc.org",
     "version": "1.8.0",
+    "checkver": {
+        "github": "https://github.com/TigerVNC/tigervnc"
+    },
     "architecture": {
         "64bit": {
             "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer64-1.8.0.exe#/tiger-vncviewer.exe",
