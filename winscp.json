@@ -1,9 +1,9 @@
 {
     "homepage": "https://winscp.net",
-    "version": "([\\d.]+)",
-    "checkver": "WinSCP 5.9.6 released",
-    "url": "https://sourceforge.net/projects/winscp/files/WinSCP/5.9.5/WinSCP-5.9.5-Portable.zip",
-    "hash": "2cdf922660804fcf1d15f6cac7e1634e94a6597f58b1cdc388414302543636b7",
+    "version": "5.9.6",
+    "checkver": "WinSCP ([\\d.]+) released",
+    "url": "https://sourceforge.net/projects/winscp/files/WinSCP/5.9.6/WinSCP-5.9.6-Portable.zip",
+    "hash": "db1053d9f136302607738487621f77f577ac0a642482d0dad87508795ea94e7f",
     "depends": "putty",
     "shortcuts": [
         [

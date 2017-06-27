@@ -3,7 +3,7 @@
     "checkver": {
         "github": "https://github.com/PowerShell/Win32-OpenSSH"
     },
-    "version": "v0.0.16.0",
+    "version": "0.0.16.0",
     "architecture": {
         "64bit": {
             "url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v0.0.16.0/OpenSSH-Win64.zip",
