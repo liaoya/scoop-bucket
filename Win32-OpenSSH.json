@@ -3,16 +3,15 @@
     "checkver": {
         "github": "https://github.com/PowerShell/Win32-OpenSSH"
     },
-    "version": "0.0.16.0",
+    "version": "0.0.17.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v0.0.16.0/OpenSSH-Win64.zip",
-            "hash": "2cc0901c085592ee64fa89c324040f46ef8b64ef8c22655e823e39981dcb2b2e",
+            "url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v0.0.17.0/OpenSSH-Win64.zip",
+            "hash": "22846aee5343020b496870a9bc5005d7cbb78a54c32f687ca3658daff8fcb1bf",
             "extract_dir": "OpenSSH-Win64"
         },
         "32bit": {
-            "url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v0.0.16.0/OpenSSH-Win32.zip",
-            "hash": "d54a6dad0a783ca2fe3343ae21df6882305e7ae26d43f95cf91ac70bcbbad9e7",
+            "url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v0.0.17.0/OpenSSH-Win32.zip",
             "extract_dir": "OpenSSH-Win32"
         }
     },

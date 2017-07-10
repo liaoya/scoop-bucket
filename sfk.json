@@ -1,0 +1,8 @@
+{
+    "homepage": "http://stahlworks.com/dev/swiss-file-knife.html",
+    "version": "1.8.7",
+    "url": "http://stahlworks.com/dev/sfk/sfk.exe",
+    "bin": [
+        "skf.exe"
+    ]
+}
