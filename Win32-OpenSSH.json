@@ -12,6 +12,7 @@
         },
         "32bit": {
             "url": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/v0.0.17.0/OpenSSH-Win32.zip",
+            "hash": "1bf5603e08169a991416855748806592c3b2da79b48677e1baf9ea1586150ad5",
             "extract_dir": "OpenSSH-Win32"
         }
     },

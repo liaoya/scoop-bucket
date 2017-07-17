@@ -6,7 +6,11 @@
     "hash": "6C514DF5517C2CFC6FE8D4ED79AA709564D3D2B4B6E1A2E9E298619981543453",
     "notes": "Please run WinSSHTerm.exe in scoop\\app\\winsshterm\\current\\WinSSHTerm.exe at first so that it can generate lib\\WinSSHTerm.dll",
     "extract_dir": "WinSSHTerm",
-    "depends": ["putty", "winscp", "vcxsrv"],
+    "suggest": {
+        "putty": ["putty"],
+        "winscp": ["liaoya/winscp"],
+        "vcxsrv": ["extras/vcxsrv"]
+    },
     "bin": [
         "WinSSHTerm.exe"
     ],

@@ -3,10 +3,12 @@
   "version": "135",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.14.0%2B-jp-135/winmerge-2.14.0-jp-135-x64-exe.zip"
+      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.14.0%2B-jp-135/winmerge-2.14.0-jp-135-x64-exe.zip",
+      "hash": "074beb44783889b8332fb724f664f52d7b405a11c316e6717995657fb88bb157"
     },
     "32bit": {
-      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.14.0%2B-jp-135/winmerge-2.14.0-jp-135-exe.zip"
+      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.14.0%2B-jp-135/winmerge-2.14.0-jp-135-exe.zip",
+      "hash": "aa461a7ea6c0e9e3bdbc7ea508bb2f22e65f0976a97017102bde16492460565f"
     }
   },
   "extract_dir": "WinMerge",

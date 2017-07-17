@@ -4,7 +4,6 @@
     "checkver": "WinSCP ([\\d.]+) released",
     "url": "https://sourceforge.net/projects/winscp/files/WinSCP/5.9.6/WinSCP-5.9.6-Portable.zip",
     "hash": "0d7cff708a3b7317363ad041c297b55c19616a655912b5c63c07bc6c3398fa01",
-    "depends": "putty",
     "shortcuts": [
         [
             "WinSCP.exe",
