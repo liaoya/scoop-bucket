@@ -1,8 +1,8 @@
 {
-    "version": "2017.1.4",
+    "version": "2017.1.5",
     "homepage": "https://www.jetbrains.com/idea/",
-    "url": "https://download.jetbrains.com/idea/ideaIC-2017.1.4.win.zip",
-    "hash": "45bc1abe94d554079c31a08c1037db26615b3d9d527a4a85f247a53ef1e6e4a2",
+    "url": "https://download.jetbrains.com/idea/ideaIC-2017.1.5.win.zip",
+    "hash": "e1b73e7f43fa9a5a200ed0d61edcece537b81cbdd541abbc4835afbe110a3df4",
     "bin": "bin\\idea.bat",
     "env_add_path": "bin",
     "checkver": {
