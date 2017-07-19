@@ -1,14 +1,17 @@
 {
-  "homepage": "http://spring.io/",
-  "version": "1.5.4.RELEASE",
-  "url": "http://repo.spring.io/release/org/springframework/boot/spring-boot-cli/1.5.4.RELEASE/spring-boot-cli-1.5.4.RELEASE-bin.zip",
-  "hash": "sha1:ce6ffd56ddf72eb20c73924a90de4b3d2dadceef",
-  "extract_dir": "spring-1.5.4.RELEASE",
-  "bin": "bin\\spring.bat",
-  "suggest": {
-    "JDK": [
-      "extras/oraclejdk",
-      "openjdk"
-    ]
-  }
+    "homepage": "http://spring.io/",
+    "version": "1.5.4.RELEASE",
+    "url": "http://repo.spring.io/release/org/springframework/boot/spring-boot-cli/1.5.4.RELEASE/spring-boot-cli-1.5.4.RELEASE-bin.zip",
+    "hash": "sha1:ce6ffd56ddf72eb20c73924a90de4b3d2dadceef",
+    "extract_dir": "spring-1.5.4.RELEASE",
+    "env_set": {
+         "SPRING_HOME": "$dir"
+    },
+    "bin": "bin\\spring.bat",
+    "suggest": {
+        "JDK": [
+            "extras/oraclejdk",
+            "openjdk"
+        ]
+    }
 }
