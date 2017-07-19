@@ -4,6 +4,11 @@
 	"checkver": "Version ([\\d.]+)",
 	"url": "http://www.h2database.com/h2-2017-06-10.zip",
 	"hash": "sha1:6d750da6c79ebb7688117a761c646716e9f8cbc4",
+    "extract_dir": "h2",
+    "bin": [
+        "bin\\h2.bat",
+        "bin\\h2w.bat"
+    ],
     "suggest": {
         "JDK": [
             "extras/oraclejdk",
