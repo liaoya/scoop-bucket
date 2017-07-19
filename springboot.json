@@ -13,5 +13,9 @@
             "extras/oraclejdk",
             "openjdk"
         ]
-    }
+    },
+    "notes": [
+        "Please set JAVA_OPTS and add '-Dhttp.proxyHost= -Dhttp.proxyPort= -Dhttps.proxyHost= -Dhttps.proxyPort=",
+        "If you need a proxy server to visit Internet"
+    ]
 }
