@@ -4,7 +4,7 @@
     "version": "1.12.1",
     "url": "http://dl.winsshterm.net/WinSSHTerm-1.12.1.zip",
     "hash": "D0EED0D07C5E9C1393579057DF98D5258770934753EA247487035422E2C1C10C",
-    "notes": "Please run WinSSHTerm.exe in scoop\\app\\winsshterm\\current\\WinSSHTerm.exe at first so that it can generate lib\\WinSSHTerm.dll",
+    "notes": "Please change to scoop\\apps\\winsshterm\\current\\ and run WinSSHTerm.exe at first so that it can generate lib\\WinSSHTerm.dll",
     "extract_dir": "WinSSHTerm",
     "suggest": {
         "putty": ["putty"],
