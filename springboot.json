@@ -16,6 +16,6 @@
     },
     "notes": [
         "Please set JAVA_OPTS and add '-Dhttp.proxyHost= -Dhttp.proxyPort= -Dhttps.proxyHost= -Dhttps.proxyPort=",
-        "If you need a proxy server to visit Internet"
+        "If you are behind a proxy server"
     ]
 }

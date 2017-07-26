@@ -9,5 +9,8 @@
             "WinSCP.exe",
             "WinSCP"
         ]
-    ]
+    ],
+    "autoupdate": {
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/$version/WinSCP-$version-Portable.zip",
+    }
 }
