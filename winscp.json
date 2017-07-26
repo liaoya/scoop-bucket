@@ -11,6 +11,6 @@
         ]
     ],
     "autoupdate": {
-        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/$version/WinSCP-$version-Portable.zip",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/$version/WinSCP-$version-Portable.zip"
     }
 }
