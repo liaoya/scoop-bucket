@@ -1,9 +1,9 @@
 {
     "homepage": "http://spring.io/",
-    "version": "1.5.4.RELEASE",
-    "url": "http://repo.spring.io/release/org/springframework/boot/spring-boot-cli/1.5.4.RELEASE/spring-boot-cli-1.5.4.RELEASE-bin.zip",
-    "hash": "sha1:ce6ffd56ddf72eb20c73924a90de4b3d2dadceef",
-    "extract_dir": "spring-1.5.4.RELEASE",
+    "version": "1.5.5.RELEASE",
+    "url": "http://repo.spring.io/release/org/springframework/boot/spring-boot-cli/1.5.5.RELEASE/spring-boot-cli-1.5.5.RELEASE-bin.zip",
+    "hash": "sha1:932e716a11ac2823df4ff79c0d3e30c9d2a38845",
+    "extract_dir": "spring-1.5.5.RELEASE",
     "env_set": {
          "SPRING_HOME": "$dir"
     },
