@@ -15,7 +15,7 @@
         ]
     },
     "notes": [
-        "Please set JAVA_OPTS and add '-Dhttp.proxyHost= -Dhttp.proxyPort= -Dhttps.proxyHost= -Dhttps.proxyPort=",
+        "Please set JAVA_OPTS and add '-Dhttp.proxyHost= -Dhttp.proxyPort= -Dhttps.proxyHost= -Dhttps.proxyPort='",
         "If you are behind a proxy server"
     ]
 }

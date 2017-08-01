@@ -1,0 +1,26 @@
+{
+    "home": "http://www.srware.net",
+    "version": "58.0.3050.0",
+    "checkver": {
+        "url": "http://www.srware.net/en/software_srware_iron_download.php",
+        "re": "Version: ([\\d.]+)"
+    },
+    "shortcuts": [
+        [
+            "IronPortable.exe",
+            "SRWare Iron"
+        ]
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "http://www.srware.net/downloads/IronPortable64.zip",
+            "hash": "a7fe670df2f4d7f00379488b0a1bf64c44b02867bff9eb65c8a0cee3bb2e3bd3",
+            "extract_dir": "IronPortable64"
+        },
+        "32bit": {
+            "url": "http://www.srware.net/downloads/IronPortable.zip",
+            "hash": "84cdce172a7ff1347cc6b73dcb81c7dfe1cf78c75ee3a3dbd3c3dccee8ee4705",
+            "extract_dir": "IronPortable"
+        }
+    }
+}
