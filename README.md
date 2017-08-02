@@ -14,3 +14,9 @@ The process to create a new json file
 Run the following command in PowerShell environment
 
     C:\Users\huifshen\scoop\apps\scoop\current\bin\checkver.ps1 * C:\Users\huifshen\scoop\buckets\liaoya -u
+
+## Github release check
+
+Run the command like `curl -s https://api.github.com/repos/PowerShell/Win32-OpenSSH/releases/latest`
+
+Refer <https://developer.github.com/v3/repos/releases/>
