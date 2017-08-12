@@ -3,7 +3,7 @@ import shutil
 
 
 def main(name, version, link):
-	pattern = ("://", "/")
+	pattern = ("://", "#/", "/")
 	for elem in pattern:
 		link = link.replace(elem, "_")
 	print(name + "#" + version + "#" + link)
