@@ -1,14 +1,14 @@
 {
     "homepage": "http://www.winsshterm.net",
     "checkver": "new version ([\\d.]+)",
-    "version": "1.12.5",
-    "url": "http://dl.winsshterm.net/WinSSHTerm-1.12.5.zip",
-    "hash": "CB95CB858295984344D34CA6D92CF20AC10B24F2E537BA4816A00A74C3B1F005",
+    "version": "1.12.6",
+    "url": "http://dl.winsshterm.net/WinSSHTerm-1.12.6.zip",
+    "hash": "178F4C014A1F172131004E102DBF11FC86E78F579791AE88546F0C5A4ED718CA",
     "notes": "Please change to scoop\\apps\\winsshterm\\current\\ and run WinSSHTerm.exe at first so that it can generate lib\\WinSSHTerm.dll",
     "extract_dir": "WinSSHTerm",
     "suggest": {
         "putty": ["putty"],
-        "winscp": ["liaoya/winscp"],
+        "winscp": ["extras/winscp"],
         "vcxsrv": ["extras/vcxsrv"]
     },
     "bin": [
