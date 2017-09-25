@@ -1,15 +1,15 @@
 {
     "homepage": "https://www.realvnc.com/download/viewer/windows",
-    "version": "6.1.1",
+    "version": "6.1.7",
     "checkver": "DOWNLOAD VNC VIEWER ([\\d.]+)",
     "architecture": {
         "64bit": {
-            "url": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.1.1-Windows-64bit.exe#/realvnc-vncviewer.exe",
-            "hash": "e42481f62fbd0d63e506cb01e97cd4dea33bf005fffc890bf967b0e52b3282a9"
+            "url": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.17.731-Windows-64bit.exe#/realvnc-vncviewer.exe",
+            "hash": "b2216eb26678851ca9862f936b4057516933cfecb343b4fca54b5170339d2063"
         },
         "32bit": {
-            "url": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.1.1-Windows-32bit.exe#/realvnc-vncviewer.exe",
-            "hash": "3786407669ce5b3b4f43da213e104321ce2491562be41396607d4506d874ca0b"
+            "url": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.17.731-Windows-32bit.exe#/realvnc-vncviewer.exe",
+            "hash": "4937e3cf1586e0973a1224111422a13577f51454683d55f97e1108794379c009"
         }
     },
     "bin": [
