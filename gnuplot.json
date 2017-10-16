@@ -1,15 +1,15 @@
 {
     "homepage": "http://gnuplot.info",
-    "version": "5.0.7",
+    "version": "5.2.0",
     "extract_dir": "gnuplot",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.0.7/gp507-win64-mingw.7z",
-            "hash": "f3063ed3d4dfd87c6ea433eb82fce9ffc7a64c52d81e9b0ab33a9158b0a68295"
+            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.0/gp520-win64-mingw.7z",
+            "hash": "d5bc471ec01e7e84cc83b68d10ab878539e6b87c05832ce7eaf69e453bcb9f6a"
         },
         "32bit": {
-            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.0.7/gp507-win32-mingw.7z",
-            "hash": "b41622287fa34e4f188d6d6d75b11ea1d6ec83c32483c071b8c6bee7179408c3"
+            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.0/gp520-win32-mingw.7z",
+            "hash": ""
         }
     },
     "bin": [
