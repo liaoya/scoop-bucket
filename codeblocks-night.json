@@ -1,0 +1,19 @@
+{
+    "home": "http://www.codeblocks.org",
+    "version": "11246",
+    "architecture": {
+        "64bit": {
+            "url": [
+                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/2017/CB_20171209_rev11246_win64.7z",
+                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/wxmsw30u_gcc_cb_wx303_gcc510-TDM-2.7z"
+            ],
+            "hash": [
+                "aaf0ab34f0ec54fce56d2a2a16c02b5e4b266c0f6b207d248ff9eea4a0ad3a85",
+                "e4b48d06cdc1ffd50a33e9d8f9c23ebb94d5d3c3acb4225df965cf3d9c621891"
+            ]
+        }
+    },
+    "shortcuts": [
+        ["codeblocks.exe", "CodeBlocks Night"]
+    ]
+}

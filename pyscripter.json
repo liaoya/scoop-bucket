@@ -5,7 +5,7 @@
       "64bit": {
         "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v3.0/PyScripter-v3.0.2-x64.zip",
         "hash": "c2d1a7be1fa50bb9c5d19a146f965d14fcb070da10f4f65cf41dffc68adb9560",
-        "extract_dir": "PyScripter-v3.0.2-x64/PyScripter",
+        "extract_dir": "PyScripter-v3.0.2-x64/PyScripter"
       },
       "32bit": {
         "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v3.0/PyScripter-v3.0.2.zip",
