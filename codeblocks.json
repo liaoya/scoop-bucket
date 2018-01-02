@@ -1,0 +1,9 @@
+{
+    "home": "http://www.codeblocks.org",
+    "version": "17.12",
+    "url": "https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12-nosetup.zip",
+    "hash": "32d35fb2f94d7c6e43a5c0d3593ac635a7b9d75207c9f9178dcd6e5b987f28a7",
+    "shortcuts": [
+        ["codeblocks.exe", "CodeBlocks"]
+    ]
+}
