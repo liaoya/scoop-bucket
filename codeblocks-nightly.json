@@ -14,6 +14,6 @@
         }
     },
     "shortcuts": [
-        ["codeblocks.exe", "CodeBlocks Nightly\"]
+        ["codeblocks.exe", "CodeBlocks Nightly"]
     ]
 }
