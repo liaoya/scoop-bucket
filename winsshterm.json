@@ -1,9 +1,9 @@
 {
     "homepage": "http://www.winsshterm.net",
     "checkver": "new version ([\\d.]+)",
-    "version": "2.1.6",
-    "url": "http://dl.winsshterm.net/WinSSHTerm-2.1.6.zip",
-    "hash": " 42B488498538344EA879154475D9CC991F0C93B464DC1A93A69973871ED31312",
+    "version": "2.1.7",
+    "url": "http://dl.winsshterm.net/WinSSHTerm-2.1.7.zip",
+    "hash": "63CE3C898B436F7E9FF5D69177BAA44023AECD5734EA91A94E662B21796ECB75",
     "notes": "Please change to scoop\\apps\\winsshterm\\current\\ and run WinSSHTerm.exe at first so that it can generate lib\\WinSSHTerm.dll",
     "extract_dir": "WinSSHTerm",
     "suggest": {
