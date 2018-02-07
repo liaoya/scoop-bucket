@@ -1,0 +1,10 @@
+{
+    "_comment": "",
+    "homepage": "http://www.qownnotes.org",
+    "version": "18.02.0",
+    "url": "https://github.com/pbek/QOwnNotes/releases/download/windows-b3449/QOwnNotes.zip",
+    "hash": "45357e4f64472248620ce9409fe75d70ac239bcd8ddb37f4439973574e14f4f8",
+    "shortcuts": [
+        ["QOwnNotes.exe", "QOwnNotes"]
+    ]
+}
