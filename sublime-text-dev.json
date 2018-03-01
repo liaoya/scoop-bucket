@@ -1,14 +1,14 @@
 {
     "homepage": "https://www.sublimetext.com/3",
-    "version": "3156",
+    "version": "3157",
     "architecture": {
         "64bit": {
-            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203156%20x64.zip",
-            "hash": "54a0efd7b163524f456bf54fc89ecd31e4fab8b133559e0e0196d606a8d90038"
+            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203157%20x64.zip",
+            "hash": "c8181a7573d859b8315b08345096457f24a123346929d17def27e3cacd12965c"
         },
         "32bit": {
-            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203156.zip",
-            "hash": "d815480d6591a5147c870ada6c69b0d1df828a39fe6d38d68d18326be6bf7041"
+            "url": "https://download.sublimetext.com/Sublime%20Text%20Build%203157.zip",
+            "hash": "68aa9d1ef1616d32445e7ad4cbec1930c06042ccda53b991cdddf1151a810a7f"
         }
     },
     "bin": "subl.exe",
