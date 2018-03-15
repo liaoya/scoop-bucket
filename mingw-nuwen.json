@@ -1,7 +1,7 @@
 {
     "home": "https://nuwen.net/mingw.html",
-    "version": "15.3",
-    "url": "https://nuwen.net/files/mingw/mingw-15.3-without-git.exe#/mingw-15.3-without-git.7z",
-    "hash": "2e376e0b143db6807d411f117cf6619364bb69acae09e393506b6cd8205320ae",
+    "version": "15.4",
+    "url": "https://nuwen.net/files/mingw/mingw-15.4-without-git.exe#/mingw-15.4-without-git.7z",
+    "hash": "c63eb8f8b6132327c1f5378657415ccdf84a2221ebf5b1cd4fa62ca488501f35",
     "extract_dir": "MinGW"
 }
