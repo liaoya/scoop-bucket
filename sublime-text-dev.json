@@ -11,7 +11,6 @@
             "hash": "68aa9d1ef1616d32445e7ad4cbec1930c06042ccda53b991cdddf1151a810a7f"
         }
     },
-    "bin": "subl.exe",
     "persist": "Data",
     "notes": "Sublime Text may be downloaded and evaluated for free, however a license must be purchased for continued use. There is currently no enforced time limit for the evaluation. For more information please see https://www.sublimetext.com/3",
     "shortcuts": [
