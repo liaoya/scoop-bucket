@@ -4,7 +4,7 @@ import argparse
 
 
 def main(name, version, link):
-    pattern = ("://", "#/", "/", "%", " ")
+    pattern = ("://", "#/", "/", "%", " ", "+")
 #    link = unquote(link)
     for elem in pattern:
         link = link.replace(elem, "_")

@@ -1,6 +1,6 @@
 {
     "_comment": "checkver and autoupdate does not work, does not set JAVA_HOME and PATH. We have only 64 bits",
-    "homepage": "https://www.azul.com/",
+    "homepage": "https://adoptopenjdk.net/",
     "version": "9.181",
     "architecture": {
         "64bit": {
