@@ -1,9 +1,9 @@
 {
     "_comment": "",
     "homepage": "http://www.qownnotes.org",
-    "version": "18.03.2",
-    "url": "https://github.com/pbek/QOwnNotes/releases/download/windows-b3515/QOwnNotes.zip",
-    "hash": "9fb37cfac63f095c3b3af661919c5e5284bc34b4f570905fbf0fc0bb5c099703",
+    "version": "18.04.2",
+    "url": "https://github.com/pbek/QOwnNotes/releases/download/windows-b3561/QOwnNotes.zip",
+    "hash": "000441a0b24b4f7284eb2507f8d228a91724cc00c1ce4a4491f97f7ce34c8047",
     "shortcuts": [
         ["QOwnNotes.exe", "QOwnNotes"]
     ]
