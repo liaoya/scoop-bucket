@@ -1,15 +1,13 @@
 {
     "home": "https://sourceforge.net/projects/pyscripter",
-    "version": "3.3.1",
+    "version": "3.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v3.3/PyScripter-v3.3.1-x64.zip",
-            "hash": "b5f3a81d67254594730c2791469cf385272709dbef678ee3f9f4864c67cf5d90",
+            "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v3.4/PyScripter-v3.4.1-x64.zip",
             "extract_dir": "PyScripter"
         },
         "32bit": {
-            "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v3.3/PyScripter-v3.3.1.zip",
-            "hash": "a6bdac5ce94215e85874d327e821677466420b5c5b7e3b9eb715573bdee971ec",
+            "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v3.4/PyScripter-v3.4.1.zip",
             "extract_dir": "PyScripter"
         }
     },
