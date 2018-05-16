@@ -6,10 +6,11 @@
     "version": "0.10.1",
     "url": "https://github.com/shyiko/jabba/releases/download/0.10.1/jabba-0.10.1-windows-amd64.exe",
     "hash": "c63b568880b9b361c62ca50e54320514142e80e6563959aaa8a391b0b29c2ad3",
+    "notes": "Please restart your command line for changes to take effect.",
     "bin": [
         [
             "jabba-0.10.1-windows-amd64.exe",
-            "jabba.exe"
+            "jabba"
         ]
     ],
     "persist": [
