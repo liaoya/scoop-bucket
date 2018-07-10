@@ -1,5 +1,8 @@
 {
   "home": "https://github.com/sdottaka/winmerge-v2",
+  "checkver": {
+    "github": "https://github.com/sdottaka/winmerge-v2"
+  },
   "version": "2.15.4",
   "architecture": {
     "64bit": {
