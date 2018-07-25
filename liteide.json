@@ -1,11 +1,11 @@
 {
     "homepage": "https://github.com/visualfc/liteide",
-    "version": "33.2",
+    "version": "34",
     "checkver": {
         "github": "https://github.com/visualfc/liteide"
     },
-    "url": "https://sourceforge.net/projects/liteide/files/X33.2/liteidex33.2.windows-qt5.zip",
-    "hash": "41ff03e8cd2ae7d6253c94ab01b33c44f80201cd5f4bd17a93940fa72de5aa52",
+    "url": "https://sourceforge.net/projects/liteide/files/X34/liteidex34.windows-qt5.zip",
+    "hash": "",
     "extract_dir": "liteide",
     "shortcuts": [
         [
