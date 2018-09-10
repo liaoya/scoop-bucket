@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer64-1.9.0.exe#/tiger-vncviewer.exe",
-            "hash": "ad25b8e4d21e3ead9f2336697ea266241a0417f083ea92a357482db0f3fba347"
+            "hash": "40d3e1704b754e40afb52afe3b01721b87f4d48f574b405900f03eefe10548a7"
         },
         "32bit": {
             "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer-1.9.0.exe#/tiger-vncviewer.exe",
-            "hash": "28302ccac5636b2d187229e6d976b35b09db93f2a7d4be281aee0b6c28e9e61f"
+            "hash": "ad1433404fa5ccb3b4860e98de3c3601483d6ca3b3ed6f7df3d8de64698d0ec9"
         }
     },
     "bin": [
