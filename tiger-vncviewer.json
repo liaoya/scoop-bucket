@@ -1,17 +1,17 @@
 {
     "homepage": "http://tigervnc.org",
-    "version": "1.8.0",
+    "version": "1.9.0",
     "checkver": {
         "github": "https://github.com/TigerVNC/tigervnc"
     },
     "architecture": {
         "64bit": {
-            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer64-1.8.0.exe#/tiger-vncviewer.exe",
-            "hash": "bd1d62b450d7ebf261212e80746b4cb92037b21043c28d3c5bc7a3efa6163c61"
+            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer64-1.9.0.exe#/tiger-vncviewer.exe",
+            "hash": "ad25b8e4d21e3ead9f2336697ea266241a0417f083ea92a357482db0f3fba347"
         },
         "32bit": {
-            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer-1.8.0.exe#/tiger-vncviewer.exe",
-            "hash": "c233312aac48d0e72a2f3696f42bdc5e3214e34f6406d889976ca8934a4683ad"
+            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer-1.9.0.exe#/tiger-vncviewer.exe",
+            "hash": "28302ccac5636b2d187229e6d976b35b09db93f2a7d4be281aee0b6c28e9e61f"
         }
     },
     "bin": [
