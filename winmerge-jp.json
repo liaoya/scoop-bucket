@@ -3,15 +3,15 @@
   "checkver": {
     "github": "https://github.com/sdottaka/winmerge-v2"
   },
-  "version": "2.15.4",
+  "version": "2.15.5",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.15.4/winmerge-2.15.4-x64-exe.zip",
-      "hash": "f9e46cf2aa757bf4c1865c5576fa012801a48d8ed996c574e4ab103fc0415bf3"
+      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.15.5/winmerge-2.15.5-x64-exe.zip",
+      "hash": "6c8a28b24de22f2a9b93d53a1afa328e681145d053adc83cafd81fc9f449e112"
     },
     "32bit": {
-      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.15.4/winmerge-2.15.4-exe.zip",
-      "hash": "1720aee82a0bb934cc2ee598460b9edc8a96b27689bd49f8c7e6fa13d2555a91"
+      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.15.5/winmerge-2.15.5-exe.zip",
+      "hash": "34965d9a6a0572ef34043e58e902db5a1e9c7f76e775323f871ead8f9a1329db"
     }
   },
   "extract_dir": "WinMerge",
