@@ -3,13 +3,13 @@
     "checkver": {
         "github": "https://github.com/shyiko/jabba"
     },
-    "version": "0.11.0",
-    "url": "https://github.com/shyiko/jabba/releases/download/0.11.0/jabba-0.11.0-windows-amd64.exe",
-    "hash": "28b7360fdcc3f86d6c04e5b1e0a5c6c54de82aa5444109fa5742c049a9b06778",
+    "version": "0.11.1",
+    "url": "https://github.com/shyiko/jabba/releases/download/0.11.1/jabba-0.11.1-windows-amd64.exe",
+    "hash": "7dff586112a21ca9c00f49b22448efa3a315559977841b271ca1420cb1f04d3c",
     "notes": "Please restart your command line for changes to take effect.",
     "bin": [
         [
-            "jabba-0.11.0-windows-amd64.exe",
+            "jabba-0.11.1-windows-amd64.exe",
             "jabba"
         ]
     ],

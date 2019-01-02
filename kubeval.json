@@ -1,14 +1,14 @@
 {
     "homepage": "https://github.com/garethr/kubeval",
-    "version": "0.7.1",
+    "version": "0.7.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/garethr/kubeval/releases/download/0.7.1/kubeval-windows-amd64.zip",
-            "hash": "4c7085ba0366f961fc2664ded0f09ae61fb54f393717a73aac8601987d7bda31"
+            "url": "https://github.com/garethr/kubeval/releases/download/0.7.3/kubeval-windows-amd64.zip",
+            "hash": "c3ce47aefa0651e732f675ca2f73d994e3206a3a29617afc8f315cddde7e3ab6"
         },
         "32bit": {
-            "url": "https://github.com/garethr/kubeval/releases/download/0.7.1/kubeval-windows-386.zip",
-            "hash": "1eb9f826e6e607b07e38c79afff425392016953368158d6b33817311d44f14ef"
+            "url": "https://github.com/garethr/kubeval/releases/download/0.7.3/kubeval-windows-386.zip",
+            "hash": "1d6bff08277ae8c519628fb292307c3a9aba5c3df786dc724c77c7294344b1bb"
         }
     },
     "bin": [
