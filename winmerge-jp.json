@@ -1,17 +1,18 @@
 {
-  "home": "https://github.com/sdottaka/winmerge-v2",
+  "home": "https://github.com/sdottaka/winmerge-v2-jp",
+  "description": "",
   "checkver": {
-    "github": "https://github.com/sdottaka/winmerge-v2"
+    "github": "https://github.com/sdottaka/winmerge-v2-jp"
   },
-  "version": "2.15.5",
+  "version": "2.16.0+-jp-8",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.15.5/winmerge-2.15.5-x64-exe.zip",
-      "hash": "6c8a28b24de22f2a9b93d53a1afa328e681145d053adc83cafd81fc9f449e112"
+      "url": "https://github.com/sdottaka/winmerge-v2-jp/releases/download/2.16.0%2B-jp-8/winmerge-2.16.0-jp-8-x64-exe.zip",
+      "hash": "0c1da87583a09b2c8c617f9bfe162bba08fc24ae12040b35e76fbd991a60d822"
     },
     "32bit": {
-      "url": "https://github.com/sdottaka/winmerge-v2/releases/download/2.15.5/winmerge-2.15.5-exe.zip",
-      "hash": "34965d9a6a0572ef34043e58e902db5a1e9c7f76e775323f871ead8f9a1329db"
+      "url": "https://github.com/sdottaka/winmerge-v2-jp/releases/download/2.16.0%2B-jp-8/winmerge-2.16.0-jp-8-exe.zip",
+      "hash": "544ef0db4fe00a6f9d68dd86b481450032379491ab94a41d65fe04ff8c9baec9"
     }
   },
   "extract_dir": "WinMerge",

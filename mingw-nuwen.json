@@ -1,5 +1,6 @@
 {
     "home": "https://nuwen.net/mingw.html",
+    "description": "Mingw build from stl@nuwen.net",
     "version": "16.1",
     "url": "https://nuwen.net/files/mingw/mingw-16.1-without-git.exe#/mingw-16.1-without-git.7z",
     "hash": "2ae4ba74cff89a081b3aa1f3f174834e7fe2518fabbbdc71ddf18081d676f164",

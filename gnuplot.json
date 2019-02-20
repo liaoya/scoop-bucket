@@ -1,15 +1,16 @@
 {
     "homepage": "http://gnuplot.info",
-    "version": "5.2.5",
+    "description": "a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms",
+    "version": "5.2.6",
     "extract_dir": "gnuplot",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.5/gp525-win64-mingw_1.7z",
-            "hash": "40559f884b8c3a2cb25e8367befddec716e1b90f25c862d533cc64b6372d192a"
+            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.6/gp526-win64-mingw.7",
+            "hash": "03fdc8b4a8f12beb378349c46d28d734521135f3f7227d53be8c8fded70683c4"
         },
         "32bit": {
-            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.5/gp525-win32-mingw_1.7z",
-            "hash": "4c7532953eec6322811fa76b0b87cab7ff25b9b125d5f1e38d41703f05423f26"
+            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.6/gp526-win32-mingw.7z",
+            "hash": "bee846613497247c17f5cba54855bb1fcce56542b1e7c4c35c08fe5075826cc7"
         }
     },
     "bin": [
