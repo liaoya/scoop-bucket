@@ -5,7 +5,7 @@
     "extract_dir": "gnuplot",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.6/gp526-win64-mingw.7",
+            "url": "https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.6/gp526-win64-mingw.7z",
             "hash": "03fdc8b4a8f12beb378349c46d28d734521135f3f7227d53be8c8fded70683c4"
         },
         "32bit": {
