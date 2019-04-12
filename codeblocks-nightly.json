@@ -4,12 +4,12 @@
     "architecture": {
         "64bit": {
             "url": [
-                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/2019/CB_20190101_rev11544_win64.7z",
+                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/2019/CB_20190407_rev11623_win64.7z",
                 "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/wxmsw31u_gcc_cb_wx311_gcc810-mingw64.7z",
                 "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/Mingw64dlls8.1.0.7z"
             ],
             "hash": [
-                "35dee102a3a40d26c224214030dd0e7a60401ae0c383cc0ef6a6e5119898d732",
+                "",
                 "01421e9449b62bfa152f51bb9bdb05deab19aea26b833886993d215392560eb6",
                 "2b34cab0e6cae4efe4efc0eda1d542ea4c376e31685ea5eeb3ae422f9f5a5d9a"
             ]
