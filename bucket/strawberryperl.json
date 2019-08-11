@@ -12,5 +12,5 @@
         }
     },
     "env_add_path": "perl/bin",
-    "post_install": "$dir\\relocation.pl.bat"
+    "post_install": "cmd /c \"$dir\\relocation.pl.bat\""
 }
