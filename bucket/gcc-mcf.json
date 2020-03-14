@@ -2,5 +2,6 @@
     "home": "https://gcc-mcf.lhmouse.com/",
     "version": "20200114_9.2.1",
     "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20200114_9.2.1_x64_311e3d9565207d10d4a45e5ccc082f5ce32a737e.7z",
-    "hash": "08a620e9ee4ac7fb3035405db90735f3a9b56bed9fec7df7ec355881021d3ecd"
+    "hash": "08a620e9ee4ac7fb3035405db90735f3a9b56bed9fec7df7ec355881021d3ecd",
+    "env_add_path": "bin"
 }
