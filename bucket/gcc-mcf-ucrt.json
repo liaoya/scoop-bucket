@@ -1,0 +1,7 @@
+{
+    "home": "https://gcc-mcf.lhmouse.com/",
+    "version": "20210426_10.3.1",
+    "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20210426_10.3.1_x64-ucrt_ff40cd1cc0226290f78f9a045559ed1e16d0bf85.7z",
+    "hash": "3f13f4131df61042df435ef38f309e47be2546cac57a0c416d9865d91e41df7b",
+    "env_add_path": "ucrt64/bin"
+}
