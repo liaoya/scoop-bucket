@@ -1,16 +1,16 @@
 {
     "home": "https://gcc-mcf.lhmouse.com/",
-    "version": "20210426_10.3.1",
+    "version": "20210621_11.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20210426_10.3.1_x64-msvcrt_2a2c2a756bc18ad538a36b6c8e929e5855a9f1a8.7z",
-            "hash": "e9d5e2e2ab62866b479f243dbd9c5d2fe86472be9950541ac49bf762bdf9c42a",
+            "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20210621_11.1.1_x64-msvcrt_ad7d076e1026a76fe5668106e326b0b96c9933df.7z",
+            "hash": "4a41772a4489708d23059b3020677d9839af8f5c560ee7c177b9169f6a12b146",
             "extract_dir": "mingw64",
             "env_add_path": "bin"
         },
         "32bit": {
-            "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20210426_10.3.1_x86-msvcrt_e6d7a5a99589018fa18b47548c06add40529644c.7z",
-            "hash": "2d07e30cd011cd4c315bcd2bd50407a5df7c7dc72afb7851d22e32a4aea10d27",
+            "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20210621_11.1.1_x86-msvcrt_26db305074027348df6f23cfb5f265778673b23b.7z",
+            "hash": "e3f4f26537ba188df8330856df186b89c93cfef89a1105bc524cb7fcf1f970d8",
             "extract_dir": "mingw32",
             "env_add_path": "bin"
         }

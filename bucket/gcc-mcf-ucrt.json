@@ -1,8 +1,8 @@
 {
     "home": "https://gcc-mcf.lhmouse.com/",
-    "version": "20210426_10.3.1",
-    "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20210426_10.3.1_x64-ucrt_ff40cd1cc0226290f78f9a045559ed1e16d0bf85.7z",
-    "hash": "3f13f4131df61042df435ef38f309e47be2546cac57a0c416d9865d91e41df7b",
+    "version": "20210621_11.1.1",
+    "url": "https://gcc-mcf.lhmouse.com/mingw-w64-gcc-mcf_20210621_11.1.1_x64-ucrt_ba547defd90c709997896a86eccc9da972b38fee.7z",
+    "hash": "665a10957b01a0335a152dae21a5b128739ff0c1c0e0be790071f73f39bacf63",
     "extract_dir": "ucrt64",
     "env_add_path": "bin"
 }

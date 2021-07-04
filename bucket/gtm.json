@@ -1,5 +1,6 @@
 {
     "homepage": "https://github.com/git-time-metric/gtm",
+    "description": "Seamless time tracking for all your Git projects",
     "checkver": {
         "github": "https://github.com/git-time-metric/gtm"
     },
