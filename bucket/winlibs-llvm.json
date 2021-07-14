@@ -15,5 +15,9 @@
             "extract_dir": "mingw32",
             "env_add_path": "bin"
         }
+    },
+    "checkver": {
+        "github": "https://github.com/brechtsanders/winlibs_mingw",
+        "regex": "winlibs-([\\d.-]+)gcc([\\d.-]+)\\.7z"
     }
 }
