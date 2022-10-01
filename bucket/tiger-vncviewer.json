@@ -6,12 +6,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer64-1.9.0.exe#/tiger-vncviewer.exe",
-            "hash": "40d3e1704b754e40afb52afe3b01721b87f4d48f574b405900f03eefe10548a7"
+            "url": "https://sourceforge.net/projects/tigervnc/files/stable/1.12.0/vncviewer64-1.12.0.exe#/tiger-vncviewer.exe",
+            "hash": "906afddba4e17947b2bfc38038d5c6c3dbc444e888ccb882753a15d0a5bad901"
         },
         "32bit": {
-            "url": "https://bintray.com/tigervnc/stable/download_file?file_path=vncviewer-1.9.0.exe#/tiger-vncviewer.exe",
-            "hash": "ad1433404fa5ccb3b4860e98de3c3601483d6ca3b3ed6f7df3d8de64698d0ec9"
+            "url": "https://sourceforge.net/projects/tigervnc/files/stable/1.12.0/vncviewer-1.12.0.exe#/tiger-vncviewer.exe",
+            "hash": "f103a781c16560b72d44b7d624082680436c9d4ea2e4799ff9f4d086f7dec2a5"
         }
     },
     "bin": [
