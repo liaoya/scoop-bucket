@@ -1,6 +1,6 @@
 {
     "home": "https://winlibs.com/",
-    "description": "A free C and C++ compiler for Microsoft Windows.",
+    "description": "Get the url from https://winlibs.com and add .sha256 at the end of download link for checksum.",
     "version": "13.1.0-16.0.5-11.0.0-r5",
     "architecture": {
         "64bit": {

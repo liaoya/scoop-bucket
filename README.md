@@ -26,3 +26,5 @@ curl -sL https://github.com/brechtsanders/winlibs_mingw/releases/download/12.2.0
 
 curl -sL https://github.com/brechtsanders/winlibs_mingw/releases/download/12.2.0-14.0.6-10.0.0-ucrt-r2/winlibs-i686-posix-dwarf-gcc-12.2.0-llvm-14.0.6-mingw-w64ucrt-10.0.0-r2.7z.sha256
 ```
+
+`main` and `version` contain different `winlibs`, the version is a little old.
