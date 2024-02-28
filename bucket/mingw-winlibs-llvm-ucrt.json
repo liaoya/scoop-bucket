@@ -2,17 +2,17 @@
     "home": "https://winlibs.com/",
     "comments": "Add .sha256 at the end of download link for checksum",
     "description": "A free C and C++ compiler for Microsoft Windows.",
-    "version": "13.1.0-16.0.5-11.0.0-r5",
+    "version": "13.2.0-17.0.6-11.0.1-r5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.1.0-16.0.5-11.0.0-ucrt-r5/winlibs-x86_64-posix-seh-gcc-13.1.0-llvm-16.0.5-mingw-w64ucrt-11.0.0-r5.7z",
-            "hash": "79357f19f865f08a5b7bc98f970dbdec96bb1443d5491e38c455f31f4e633ac6",
+            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0posix-17.0.6-11.0.1-ucrt-r5/winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r5.7z",
+            "hash": "8c94c6693ef621ee4af5288dccf24bb769e250ef2b31eef5dba0901887f679e8",
             "extract_dir": "mingw64",
             "env_add_path": "bin"
         },
         "32bit": {
-            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.1.0-16.0.5-11.0.0-ucrt-r5/winlibs-i686-posix-dwarf-gcc-13.1.0-llvm-16.0.5-mingw-w64ucrt-11.0.0-r5.7z",
-            "hash": "9534bb3f584515e2e7cc80bd1d50ac649a2fa785ddbedee622f0a91f0ba74a9d",
+            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0posix-17.0.6-11.0.1-ucrt-r5/winlibs-i686-posix-dwarf-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r5.7z",
+            "hash": "fb0045d2cf391f1e38d364c36374ff4fd366388c1cc373ffb28292564b553080",
             "extract_dir": "mingw32",
             "env_add_path": "bin"
         }

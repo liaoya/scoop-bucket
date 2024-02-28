@@ -4,14 +4,14 @@
     "version": "13.1.0-16.0.5-11.0.0-r5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.1.0-16.0.5-11.0.0-ucrt-r5/winlibs-x86_64-posix-seh-gcc-13.1.0-mingw-w64ucrt-11.0.0-r5.7z",
-            "hash": "94a195606af677b7cbb0a8264dc1d55c0ef2377230480f236e495cd8a24cdca8",
+            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0posix-17.0.6-11.0.1-ucrt-r5/winlibs-x86_64-posix-seh-gcc-13.2.0-mingw-w64ucrt-11.0.1-r5.7z",
+            "hash": "d49905090c9dccdf7a9aa70ada40f2e34c8de8e0e3c2c6080ad52973bf485939",
             "extract_dir": "mingw64",
             "env_add_path": "bin"
         },
         "32bit": {
-            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.1.0-16.0.5-11.0.0-ucrt-r5/winlibs-i686-posix-dwarf-gcc-13.1.0-mingw-w64ucrt-11.0.0-r5.7z",
-            "hash": "7c9c928e8a9cacc7836c903720f972e84098c65a1101f324a993b4a22fde4f14",
+            "url": "https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0posix-17.0.6-11.0.1-ucrt-r5/winlibs-i686-posix-dwarf-gcc-13.2.0-mingw-w64ucrt-11.0.1-r5.7z",
+            "hash": "6b725f19a4d0eaab6738411fe200f762b54180a82a189dc1d8b56da2398ed105",
             "extract_dir": "mingw32",
             "env_add_path": "bin"
         }
