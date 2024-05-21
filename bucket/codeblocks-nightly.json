@@ -1,17 +1,17 @@
 {
     "home": "http://www.codeblocks.org",
-    "version": "13518",
+    "version": "13521",
     "architecture": {
         "64bit": {
             "url": [
-                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/2024/CB_20240509_rev13518_win64.7z",
-                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/wxmsw32u_gcc_cb_wx324_2D_gcc1310-mingw64.7z",
-                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/Mingw64dlls13.1.0.7z"
+                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/2024/CB_20240520_rev13521_win64.7z",
+                "https://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/wxmsw32u_gcc_cb_wx325_2D_gcc1410-mingw64.7z",
+                "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/Mingw64dlls14.1.0.7z"
             ],
             "hash": [
-                "0cd93722bbb73e0511404d96751eb3c8cb98edd8b4a49c56aee8c052b8c094fa",
-                "407d7b2ed6414f74f2549bb8b7a9ee62c91715daa60048c3cb104cdd321bd6fd",
-                "0206b5e703ce0bac2a1e5cc8732eb5e89accab5f3ec781f29df0090e3a9331c3"
+                "3003987f28384d24e4b3d0ba55874308c4517f20fb39e032c03a28c0fa98622d",
+                "7d586dfa9faf2cc8dcb7d9b2c888bcb25eb448f0b829b4669757f6d2dc72e004",
+                "fc86d61321ff27d9ee5351e2ffecfcb3ecb81c87e2f550b4760a106395098a95"
             ]
         }
     },
