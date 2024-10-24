@@ -29,4 +29,5 @@ curl -sL https://github.com/brechtsanders/winlibs_mingw/releases/download/12.2.0
 
 `main` and `version` contain different `winlibs`, the version is a little old.
 
-`notepad4.json` is copied from <https://github.com/epoweripione/scoop-bucket/blob/master/bucket/notepad4.json>
+- `notepad4.json` is copied from <https://github.com/epoweripione/scoop-bucket/blob/master/bucket/notepad4.json>
+- `zed-nightly.json` is copied from <https://github.com/ScoopInstaller/Versions/blob/master/bucket/zed-nightly.json>
