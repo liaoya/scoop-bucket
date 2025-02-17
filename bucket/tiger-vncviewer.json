@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://sourceforge.net/projects/tigervnc/files/stable/1.15.0/vncviewer64-1.15.0.exe#/tiger-vncviewer.exe",
-            "hash": "257c52d348fb0df8cb627d3ea719308cff3e0ebcb4f85d47bf9825dc7f74d435"
+            "hash": "fe55c1a0ff15c6ee8aa3f77ac98318504b6ab50257182f7df6a12f9b2d90e1f3"
         },
         "32bit": {
             "url": "https://sourceforge.net/projects/tigervnc/files/stable/1.15.0/vncviewer-1.15.0.exe#/tiger-vncviewer.exe",
