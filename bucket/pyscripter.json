@@ -4,7 +4,7 @@
     "version": "5.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v5.2/PyScripter-5.2.1-x86.zip",
+            "url": "https://sourceforge.net/projects/pyscripter/files/PyScripter-v5.2/PyScripter-5.2.1-x64.zip",
             "hash": "0aed636fbcae63d3020fc47b854681dda25a6ae281b89de016a621b9c959f9e5",
             "extract_dir": "PyScripter"
         },
